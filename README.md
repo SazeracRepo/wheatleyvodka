@@ -2,8 +2,8 @@
 Franklin site implementing: http://wheatleyvodka.com/
 
 ## Environments
-- Preview: https://main--sazerac-wheatleyvodka--hlxsites.hlx.page/
-- Live: https://main--sazerac-wheatleyvodka--hlxsites.hlx.live/
+- Preview: https://main--wheatleyvodka--sazeracrepo.hlx.page/
+- Live: https://main--wheatleyvodka--sazeracrepo.hlx.live/
 
 ## Installation
 
