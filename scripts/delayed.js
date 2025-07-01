@@ -24,3 +24,8 @@ if (mikmak) {
   // add script
   loadScript('/blocks/locator/locator-init.js', { defer: true });
 }
+
+const map = document.querySelector('#locator-map');
+if (map) {
+  loadScript('/blocks/locator-v2/locator-init.js', { defer: true });
+}

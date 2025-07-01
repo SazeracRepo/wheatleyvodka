@@ -1,3 +1,4 @@
 helix-importer-ui
 blocks/locator/locator-init.js
+blocks/locator-v2/locator-init.js
 scripts/gtm-init.js
